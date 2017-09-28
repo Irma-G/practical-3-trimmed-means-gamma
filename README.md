@@ -15,7 +15,11 @@ If we construct our mixture distribution (each of sample size 30) with pi=0.5, m
 
 ## Team task
 
-I have provided five functions in this repository, however some of them are incomplete.  After having joined your assigned Github team, your team is to edit these functions to make them whole, commit the modified files back to the team repository, create a *release* of the repaired functions *(then what)?*
+I have provided five functions in this repository, however some of them are incomplete.  After having joined your assigned Github team, your team is to 
+1. edit these functions to make them whole, 
+1. commit the modified files back to the team repository, 
+1. create a *release* of the repaired functions 
+1. they can't upload to MMS, nor can they email a zip file, but can I view their team repos? 
 
 The functions and their purposes:
 
