@@ -23,9 +23,9 @@ The functions and their purposes:
     * runs the simulations by creating replicate datasets of the mixture distribution, computing the trimmed means, expected value of the distribution and mean square error
 * `mix.dist.r()`
     * generates data from mixture distribution
-* `get.E.Z()`
+* `get.expectation()`
     * calculates expected value of distribution with specified parameters
-* `estimate()`
+* `estimate.mean()`
     * calculate trimmed means (these are estimates of the expected value)
 * `mean.square.error()`
     * compute the mean square error for each of the trim levels
