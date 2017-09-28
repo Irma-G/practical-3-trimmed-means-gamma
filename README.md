@@ -9,7 +9,7 @@ The distribution we will use is a mixture of a normal with a non-central *t* dis
 
 ![](image.png)
 
-If we construct our mixture distribution (each of sample size 30) with mu1=5, sigma1=2, mu2=7 and df=3 and generate 1000 replicates for each trimming level, MSE as a function of alpha resembles this
+If we construct our mixture distribution (each of sample size 30) with pi=0.5, mu1=5, sigma1=2, mu2=7 and df=3 and generate 1000 replicates for each trimming level, MSE as a function of alpha resembles this
 
 ![](mixout.PNG)
 
@@ -27,5 +27,5 @@ The functions and their purposes:
     * calculates expected value of distribution with specified parameters
 * `estimate()`
     * calculate trimmed means (these are estimates of the expected value)
-* `MSE()`
+* `mean.square.error()`
     * compute the mean square error for each of the trim levels
