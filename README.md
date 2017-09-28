@@ -11,4 +11,4 @@ The distribution we will use is a mixture of a normal with a non-central t distr
 
 If we construct our mixture distribution with mu1=5, sigma1=2, mu2=7 and df=3 and generate 1000 replicates for each trimming level, MSE as a function of alpha resembles this
 
-![](mix_out.pdf)
+![](mixout.PNG)
